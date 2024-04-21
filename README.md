@@ -1,2 +1,1 @@
-# abhishek-shell-example-project
-Shell scripting example project
+this is new project
